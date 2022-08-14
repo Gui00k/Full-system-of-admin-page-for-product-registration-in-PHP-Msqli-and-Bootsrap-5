@@ -19,8 +19,16 @@
  
  
   #User screen
- ![image](https://user-images.githubusercontent.com/99232940/184556943-f895a753-23d0-411a-bab6-efcb400335a5.png)
+ ![image](https://user-images.githubusercontent.com/99232940/184557390-b5e29a56-5e23-46bf-a545-36d0038f6bff.png)
 
-#Registration
+# Product Registration
+![image](https://user-images.githubusercontent.com/99232940/184557423-65338cc4-5051-44ca-81b6-6b26817b8a86.png)
+
+# Delete Action
+![image](https://user-images.githubusercontent.com/99232940/184557442-dd1f6a53-0df3-488e-b341-cd7627a7dc23.png)
+
+# Update Action
+![image](https://user-images.githubusercontent.com/99232940/184557569-0ba0f5ff-7260-4889-8619-79a1d5d4b72d.png)
+
 
 
